@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pedrogallon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6482329b077be8cd83ae76ebac093b10/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pedrogallon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6482329b077be8cd83ae76ebac093b10/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pedrogallon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6482329b077be8cd83ae76ebac093b10/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:11:9-40
+activity#br.usjt.devweb.servicedesk_aula03.controller.MainActivity
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:12:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:15:27-74
+activity#br.usjt.devweb.servicedesk_aula03.controller.DetalheChamadoActivity
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:18:9-80
+	android:name
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:18:19-68
+activity#br.usjt.devweb.servicedesk_aula03.controller.ListarChamadosActivity
+ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:19:9-80
+	android:name
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml:19:19-68
+uses-sdk
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pedrogallon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6482329b077be8cd83ae76ebac093b10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/pedrogallon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6482329b077be8cd83ae76ebac093b10/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		ADDED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/AndroidManifest.xml

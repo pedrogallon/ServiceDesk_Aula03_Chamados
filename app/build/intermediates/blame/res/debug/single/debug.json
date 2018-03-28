@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_telefonia.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_telefonia.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_desktops.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_desktops.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_servidores.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_servidores.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/layout_linha_chamado.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/layout/linha_chamado.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/layout_activity_detalhe_chamado.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/layout/activity_detalhe_chamado.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_erp.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_erp.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/layout_activity_listar_chamados.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/layout/activity_listar_chamados.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_vendas.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_vendas.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_redes.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_redes.png"
+    },
+    {
+        "merged": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/build/intermediates/res/merged/debug/drawable_icon_projetos.png.flat",
+        "source": "/home/pedrogallon/StudioProjects/ServiceDesk_Aula03/app/src/main/res/drawable/icon_projetos.png"
+    }
+]
