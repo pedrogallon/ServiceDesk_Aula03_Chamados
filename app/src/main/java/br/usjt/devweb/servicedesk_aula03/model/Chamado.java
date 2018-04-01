@@ -20,14 +20,7 @@ public class Chamado implements Serializable{
     public Chamado() {
     }
 
-    public Chamado(int numero, Date dataAbertura, Date dataFechamento, String status, String descricao, Fila fila) {
-        this.numero = numero;
-        this.dataAbertura = dataAbertura;
-        this.dataFechamento = dataFechamento;
-        this.status = status;
-        this.descricao = descricao;
-        this.fila = fila;
-    }
+
 
     @Override
     public String toString() {
